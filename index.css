@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+    background-image: url(bg.jpg);
+}
+.main{
+    align-items: center;
+}
+.img{
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+    margin-bottom: -30px;
+    border-radius: 50%;
+}
+/*.img-nxt:hover{
+    background-image: url(eagle.jpg);
+}*/
+.text{
+    text-align: center;
+    font-size: bold;
+    background: #ffe4c4;
+    border-radius: 20px;
+    margin: 0px 700px 0px 700px;
+    padding: 15px 15px 15px 15px;
+}
+a:link:active{
+    color: #00ffff;
+}
